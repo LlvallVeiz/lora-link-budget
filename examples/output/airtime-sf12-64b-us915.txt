@@ -1,0 +1,10 @@
+Time on air — SF12, 125 kHz, 64 B payload, CR 4/5, preamble 8, CRC on, explicit header, LDRO on
+  Symbol duration 32.768 ms
+  Preamble        401.408 ms
+  Payload symbols 73
+  Payload time    2392.064 ms
+  Total airtime   2793.472 ms
+  Data rate       293.0 bit/s
+  LoRaWAN max payload (SF12/125 kHz)  51 B  <-- payload exceeds LoRaWAN max
+  Duty cycle      1.0% -> min interval 279.347 s, max 12.9 packets/hour
+  Dwell limit     400.000 ms <-- EXCEEDED by this packet

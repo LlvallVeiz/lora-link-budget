@@ -1,0 +1,9 @@
+Maximum range — 915 MHz, 125 kHz, SX1262, TX 22 dBm, log-distance/rural, required margin 10 dB
+SF   Sensitivity   Max path loss  Max range   
+----------------------------------------------
+SF7  -124.00 dBm   +139.00 dB     19.65 km    
+SF8  -126.60 dBm   +141.60 dB     24.96 km    
+SF9  -129.20 dBm   +144.20 dB     31.71 km    
+SF10 -131.80 dBm   +146.80 dB     40.30 km    
+SF11 -134.40 dBm   +149.40 dB     51.20 km    
+SF12 -137.00 dBm   +152.00 dB     65.05 km    

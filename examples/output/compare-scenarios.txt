@@ -1,0 +1,7 @@
+Scenario                    SF   Prx          Margin     Verdict  Airtime     
+------------------------------------------------------------------------------
+urban-sf7-1km               SF7  -111.21 dBm  +11.79 dB  PASS     56.576 ms   
+urban-sf12-2km              SF12 -121.45 dBm  +14.55 dB  PASS     1318.912 ms 
+rural-sf12-5km              SF12 -99.14 dBm   +37.86 dB  PASS     1318.912 ms 
+gateway-sf9-3km             SF9  -100.05 dBm  +28.95 dB  PASS     185.344 ms  
+hata-urban-sf10-2km         SF10 -120.60 dBm  +11.40 dB  PASS     370.688 ms  

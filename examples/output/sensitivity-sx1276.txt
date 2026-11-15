@@ -1,0 +1,10 @@
+Receiver sensitivity (dBm) — SX1276
+SF   125 kHz    250 kHz    500 kHz    
+--------------------------------------
+SF7  -123.0     -120.0     -116.0     
+SF8  -126.0     -123.0     -119.0     
+SF9  -129.0     -125.0     -122.0     
+SF10 -132.0     -128.0     -125.0     
+SF11 -133.0     -130.0     -128.0     
+SF12 -136.0     -133.0     -130.0     
+* interpolated between published SF7/SF12 endpoints (estimate)

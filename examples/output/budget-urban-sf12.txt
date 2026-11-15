@@ -1,0 +1,11 @@
+Link budget — 868 MHz, SF12, 125 kHz, SX1276, log-distance/urban, 2 km
+  EIRP            21.00 dBm
+  Path loss       +143.45 dB
+  Received power  -121.45 dBm
+  Sensitivity     -136.00 dBm
+  Link margin     +14.55 dB
+  Required margin +10.00 dB
+  Verdict         PASS (margin above required: +4.55 dB)
+  Max path loss   +148.00 dB
+  Min SNR (SF12)  -20.00 dB
+  Data rate       293.0 bit/s (CR 4/5)
