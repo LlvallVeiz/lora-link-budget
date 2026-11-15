@@ -1,0 +1,1 @@
+{"bandwidthKhz":125,"chip":"sx1276","distanceKm":3,"environment":"suburban","frequencyMhz":868,"model":"log-distance","name":"gateway-to-node","requiredMarginDb":10,"rxAntennaGainDbi":2,"rxLossDb":1,"sf":9,"txAntennaGainDbi":5,"txLossDb":1,"txPowerDbm":27}

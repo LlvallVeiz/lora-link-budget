@@ -1,0 +1,1 @@
+{"bandwidthKhz":125,"chip":"sx1276","distanceKm":2,"environment":"urban","frequencyMhz":868,"model":"log-distance","name":"urban-sf12","requiredMarginDb":10,"rxAntennaGainDbi":2,"rxLossDb":1,"sf":12,"txAntennaGainDbi":2,"txLossDb":1,"txPowerDbm":20}

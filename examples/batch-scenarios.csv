@@ -1,0 +1,8 @@
+# Batch scenarios for `lora-link-budget compare --file examples/batch-scenarios.csv`
+# Empty cells use the default (gains 0, losses 0, model log-distance, env suburban, margin 10 dB).
+name,txPowerDbm,frequencyMhz,distanceKm,sf,bandwidthKhz,chip,model,environment,txAntennaGainDbi,rxAntennaGainDbi,txLossDb,rxLossDb,payloadBytes
+urban-sf7-1km,20,868,1,7,125,sx1276,log-distance,urban,2,2,1,1,20
+urban-sf12-2km,20,868,2,12,125,sx1276,log-distance,urban,2,2,1,1,20
+rural-sf12-5km,22,915,5,12,125,sx1262,log-distance,rural,2,2,0.5,0.5,20
+gateway-sf9-3km,27,868,3,9,125,sx1276,log-distance,suburban,5,2,1,1,20
+bad-sf-row,14,868,1,6,125,sx1276,log-distance,urban,2,2,1,1,20
